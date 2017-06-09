@@ -1,0 +1,24 @@
+{
+  "name": "piatto-light-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A clean light syntax theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "light",
+    "piatto"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drugoi/piatto-light-syntax"
+  },
+  "bugs": {
+    "url": "https://github.com/drugoi/piatto-light-syntax/issues"
+  },
+  "homepage": "https://github.com/drugoi/piatto-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
